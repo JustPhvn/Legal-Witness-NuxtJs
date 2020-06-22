@@ -3,12 +3,21 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\thejp\\\\code\\\\vue\\\\Legal-Witness-NuxtJs\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_24726f9c"
+  },
+  {
+    "name": "wone",
+    "path": "/wone",
+    "component": "C:\\\\Users\\\\thejp\\\\code\\\\vue\\\\Legal-Witness-NuxtJs\\\\pages\\\\wone.vue",
+    "chunkName": "pages/wone",
+    "_name": "_1de0537a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\thejp\\\\code\\\\vue\\\\Legal-Witness-NuxtJs\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_0d7ea2f7"
   }
 ]

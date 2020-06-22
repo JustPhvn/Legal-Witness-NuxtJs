@@ -11,9 +11,9 @@
             <b-nav-item to="/about">About</b-nav-item>
             <b-nav-item-dropdown text="Witnesses" right>
               <b-dropdown-item to="/wone">W. One</b-dropdown-item>
-              <b-dropdown-item>W. Two</b-dropdown-item>
-              <b-dropdown-item>W. Three</b-dropdown-item>
-              <b-dropdown-item>W. Four</b-dropdown-item>
+              <b-dropdown-item to="/wone">W. Two</b-dropdown-item>
+              <b-dropdown-item to="/wone">W. Three</b-dropdown-item>
+              <b-dropdown-item to="/wone">W. Four</b-dropdown-item>
             </b-nav-item-dropdown>
           </b-navbar-nav>
         </b-collapse>
